@@ -1,0 +1,3 @@
+Zaleca się pobrać środowisko programistyczne dostępne tutaj:
+https://github.com/aghbit/Algorytmy-Geometryczne
+Po pobraniu należy podmienić folder Visualizer na ten, który znajduje się w tym pliku.
