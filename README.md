@@ -1,4 +1,4 @@
-# Wyznaczanie punktu na mapie metodą trapezową
+# Lokalizacja punktu na płaszczyźnie przy użyciu metody trapezowej
 
 Projekt polega na wyznaczaniu współrzędnych punktu na mapie przy użyciu metody trapezowej. Program został napisany w języku Python.
 
