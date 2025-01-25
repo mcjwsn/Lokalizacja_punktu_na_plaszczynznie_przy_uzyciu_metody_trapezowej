@@ -23,6 +23,7 @@ Należy się zapoznać z zawartością pliku `/requirements/enviroment.txt`
 
 ## Przykład działania
 GIF - wizualizacja tworzenia mapy trapezowej 
+
 <img src="https://github.com/mcjwsn/Projekt-Geometryczne/blob/main/gifs/pr4.gif" width="500" height="500">
 Wynik algorytmu
 <img src="https://github.com/mcjwsn/Projekt-Geometryczne/blob/main/gifs/wiz4.bmp" width="500" height="500">
@@ -30,6 +31,7 @@ Wynik algorytmu
 ## Autory
 
 Oskar Blajsz [Blajszu](https://github.com/Blajszu)
-Maciej Wiśniewski[mcjwsn](https://github.com/mcjwsn)
+
+Maciej Wiśniewski [mcjwsn](https://github.com/mcjwsn)
 
 
