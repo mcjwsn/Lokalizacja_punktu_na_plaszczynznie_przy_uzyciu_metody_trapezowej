@@ -29,6 +29,7 @@ GIF - wizualizacja tworzenia mapy trapezowej
 ## Autory
 
 Oskar Blajsz [Blajszu](https://github.com/Blajszu)
-Maciej Wiśniewski[mcjwsn](https://github.com/mcjwsn)
+
+Maciej Wiśniewski [mcjwsn](https://github.com/mcjwsn)
 
 
