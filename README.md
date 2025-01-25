@@ -22,14 +22,13 @@ Wymaganie dostępne w pliku `/requirements/requriments.txt`
 Należy się zapoznać z zawartością pliku `/requirements/enviroment.txt`
 
 ## Przykład działania
-GIF - wizualizacja tworzenia mapy trapezowej 
 
+<h5> GIF - wizualizacja tworzenia mapy trapezowej </h5>
 <img src="https://github.com/mcjwsn/Projekt-Geometryczne/blob/main/gifs/pr2.gif" width="700" height="700">
-Wynik algorytmu
+<h5> Wynik algorytmu </h5>
 <img src="https://github.com/mcjwsn/Projekt-Geometryczne/blob/main/gifs/wiz4.jpg" width="700" height="700">
 
-## Autory
-
+## Autorzy 
 Oskar Blajsz [Blajszu](https://github.com/Blajszu)
 
 Maciej Wiśniewski [mcjwsn](https://github.com/mcjwsn)
