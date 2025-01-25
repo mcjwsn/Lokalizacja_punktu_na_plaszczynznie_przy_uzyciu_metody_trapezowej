@@ -26,7 +26,7 @@ Należy się zapoznać z zawartością pliku `/requirements/enviroment.txt`
 <h5> GIF - wizualizacja tworzenia mapy trapezowej </h5>
 <img src="https://github.com/mcjwsn/Projekt-Geometryczne/blob/main/gifs/pr2.gif" width="700" height="700">
 <h5> Wynik algorytmu </h5>
-<img src="https://github.com/mcjwsn/Projekt-Geometryczne/blob/main/gifs/wiz4.jpg" width="700" height="700">
+<img src="https://github.com/mcjwsn/Projekt-Geometryczne/blob/main/gifs/wiz4.png" width="700" height="700">
 
 ## Autorzy 
 Oskar Blajsz [Blajszu](https://github.com/Blajszu)
