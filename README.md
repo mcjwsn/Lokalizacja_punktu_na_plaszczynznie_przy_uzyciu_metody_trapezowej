@@ -23,8 +23,9 @@ Należy się zapoznać z zawartością pliku `/requirements/enviroment.txt`
 
 ## Przykład działania
 GIF - wizualizacja tworzenia mapy trapezowej 
-![](https://github.com/mcjwsn/Projekt-Geometryczne/blob/main/gifs/pr4.gif)
-![](https://github.com/mcjwsn/Projekt-Geometryczne/blob/main/gifs/wiz4.bmp)
+<img src="https://github.com/mcjwsn/Projekt-Geometryczne/blob/main/gifs/pr4.gif" width="500" height="500">
+Wynik algorytmu
+<img src="https://github.com/mcjwsn/Projekt-Geometryczne/blob/main/gifs/wiz4.bmp" width="500" height="500">
 
 ## Autory
 
